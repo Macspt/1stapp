@@ -6,7 +6,7 @@ import image from './assets/sonic.png'
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>I put a new picture below</Text>
+      <Text>Hello World!</Text>
       <Image source={image}/>
       <StatusBar style="auto" />
     </View>
